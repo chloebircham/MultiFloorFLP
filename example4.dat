@@ -1,0 +1,38 @@
+CeilingHeight: 10
+Floors: 1
+Elevators:0
+Departments: 7
+DArea:[16 16 9 9 36 25 25 ]
+EWidth: 0
+EHeight: 0
+FWidth: 13
+FHeight: 13
+beta: 1
+
+!Cost for hotel Example
+Cost:[ 1 1 1 1 10 7 7
+       1 1 1 1 10 7 7
+       1 1 1 1 10 5 5
+       1 1 1 1 10 5 5
+       10 10 10 10 1 8 8
+       7 7 5 5 8 1 10
+       7 7 5 5 8 10 1
+
+]
+
+
+
+!identity matrix
+!Cost:[ 1 1 1 1 1 1 1
+        1 1 1 1 1 1 1
+        1 1 1 1 1 1 1
+        1 1 1 1 1 1 1
+        1 1 1 1 1 1 1
+        1 1 1 1 1 1 1
+        1 1 1 1 1 1 1
+
+       ]
+
+
+       
+
