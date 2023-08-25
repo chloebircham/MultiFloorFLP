@@ -1,0 +1,15 @@
+CeilingHeight: 10
+Floors: 3
+Elevators:2
+Departments: 5
+DArea:[26 18 8 12 14]
+EWidth: 2.5
+EHeight: 4
+FWidth: 6
+FHeight: 8
+beta:10
+Cost: [ 1 1 1 1 1   
+        1 1 1 1 1  
+        1 1 1 1 1  
+        1 1 1 1 1  
+        1 1 1 1 1  ]
